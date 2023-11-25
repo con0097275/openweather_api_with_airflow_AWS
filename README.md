@@ -2,7 +2,7 @@
 
 ## Overview
 In this project, we will build and automate an ETL process that can extract current weather data from open weather map API, transform the data and load the data into an S3 bucket using Apache Airflow.
-
+we use airflow to orchestrate a parallel processing ETL pipeline on AWS EC2.
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from from different sources.
 2. ETL Pileline — We are getting data in raw format, transforming this data into the proper format and join with another data source to get more info using  Apache Airflow.
@@ -18,3 +18,8 @@ Open Weather API
 
 ## Architecture Diagram
 
+<img src="architecture_.png">
+
+## Dag Process (Airflow)
+
+<img src="dagProcess.png">
