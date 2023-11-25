@@ -14,7 +14,8 @@ we use airflow to orchestrate a parallel processing ETL pipeline on AWS EC2.
 3. AWS RDS Postgres: use to support relational databases Postgres
 4. AWS EC2: We use it to install Apache Airflow Software.
 ## Data Used
-Open Weather API
+1. Open Weather API
+2. us_city.csv
 
 ## Architecture Diagram
 
