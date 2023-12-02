@@ -23,4 +23,4 @@ we use airflow to orchestrate a parallel processing ETL pipeline on AWS EC2.
 
 ## Dag Process (Airflow)
 
-<img src="dagProcess.png">
+<img src="DagProcess.png">
