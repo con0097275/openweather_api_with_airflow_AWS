@@ -5,7 +5,7 @@ In this project, I will build and automate an ETL process that can extract curre
 I use airflow to orchestrate a parallel processing ETL pipeline on AWS EC2.
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from from different sources.
-2. ETL Pileline — I are getting data in raw format, transforming this data into the proper format and join with another data source to get more info using  Apache Airflow.
+2. ETL Pileline — I am getting data in raw format, transforming this data into the proper format and join with another data source to get more info using  Apache Airflow.
 3. Cloud — In this case, I will use AWS
 
 ## Services I will be using
