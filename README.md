@@ -23,7 +23,7 @@ I use airflow to orchestrate a parallel processing ETL pipeline on AWS EC2.
 
 ## Detail
 - Use airflow to orchestrate a parallel processing ETL pipeline on AWS EC2.
-- Build and automate an ETL process that can extract current weather data from open weather API, transform the data and load the data into a table in amazon RDS Postgres. 
+- Build and automate an ETL process that can extract current weather data from open weather API, transform the data and load the data into amazon RDS Postgres. 
 - Join tables in amazon RDS, then load the result back into an S3 bucket using Apache Airflow.
 
 ## Dag Process (Airflow)
